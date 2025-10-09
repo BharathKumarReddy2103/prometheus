@@ -13,3 +13,4 @@ groups:
     annotations:
       summary: "Instance {{ $labels.instance_id }} down"
       description: "{{ $labels.instance_id }} is down for more than 1 minute"
+      
