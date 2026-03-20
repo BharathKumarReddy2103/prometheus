@@ -13,3 +13,4 @@ groups:
     annotations:
       summary: "Instance HighCPUUtilsation"
       description: "{{ $labels.instance_id }} HighCPUUtilsation"
+      
